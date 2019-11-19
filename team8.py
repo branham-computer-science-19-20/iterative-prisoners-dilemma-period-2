@@ -6,7 +6,10 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name = 'WeLoveMostafa' # Only 10 chars displayed.
+
+team_name = 'We luv Mostafa' # Only 10 chars displayed.
+#Add all team member's names here
+
 strategy_name = 'The name the team gives to this strategy'
 strategy_description = 'How does this strategy decide?'
     
